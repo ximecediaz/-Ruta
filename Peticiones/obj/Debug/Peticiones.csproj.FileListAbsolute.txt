@@ -1,0 +1,9 @@
+C:\Users\alber\Desktop\Cosas\UASLP\Quinto\Interfaces\Peticiones\obj\Debug\Peticiones.csprojAssemblyReference.cache
+C:\Users\alber\Desktop\Cosas\UASLP\Quinto\Interfaces\Peticiones\obj\Debug\Peticiones.Form1.resources
+C:\Users\alber\Desktop\Cosas\UASLP\Quinto\Interfaces\Peticiones\obj\Debug\Peticiones.Properties.Resources.resources
+C:\Users\alber\Desktop\Cosas\UASLP\Quinto\Interfaces\Peticiones\obj\Debug\Peticiones.csproj.GenerateResource.cache
+C:\Users\alber\Desktop\Cosas\UASLP\Quinto\Interfaces\Peticiones\bin\Debug\Peticiones.exe.config
+C:\Users\alber\Desktop\Cosas\UASLP\Quinto\Interfaces\Peticiones\bin\Debug\Peticiones.exe
+C:\Users\alber\Desktop\Cosas\UASLP\Quinto\Interfaces\Peticiones\bin\Debug\Peticiones.pdb
+C:\Users\alber\Desktop\Cosas\UASLP\Quinto\Interfaces\Peticiones\obj\Debug\Peticiones.exe
+C:\Users\alber\Desktop\Cosas\UASLP\Quinto\Interfaces\Peticiones\obj\Debug\Peticiones.pdb
